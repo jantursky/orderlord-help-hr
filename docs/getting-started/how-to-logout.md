@@ -20,6 +20,6 @@ permalink: /getting-started/how-to-logout
 1. The authorization screen will be displayed, where you click on the **RESET AUTHENTICATION** option on the bottom screen.
 1. The login screen will be displayed, where you could log in with the _email_ and _password_.
 
-{% include img_smartphone.html name="getting_started_how_to_logout_1.png" %}
+{% include img_tablet.html name="getting_started_how_to_logout_1.png" %}
 
-{% include img_smartphone.html name="getting_started_how_to_logout_2.png" %}
+{% include img_tablet.html name="getting_started_how_to_logout_2.png" %}

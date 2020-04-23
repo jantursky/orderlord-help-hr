@@ -10,7 +10,6 @@ permalink: /
 
 ## Table of contents
 - [Getting Started](getting-started)
-- [Phone calls section](phone-calls-section)
 - [Timeline section](timeline-section)
 - [List of Settings](list-of-settings)
 - [Frequently asked questions (FAQ)](frequently-asked-questions-faq)

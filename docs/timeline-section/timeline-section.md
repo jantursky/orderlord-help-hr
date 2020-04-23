@@ -24,6 +24,6 @@ The list of past actions that the user performs during working with the Caller I
 - [How to use]({{site.baseurl}}{% link docs/timeline-section/how-to-use.md %})
 - [Filtering the data]({{site.baseurl}}{% link docs/timeline-section/filtering-the-data.md %})
 
-{% include img_smartphone.html name="timeline_section_preview_1.png" %}
+{% include img_tablet.html name="timeline_section_preview_1.png" %}
 
-{% include img_smartphone.html name="timeline_section_preview_2.png" %}
+{% include img_tablet.html name="timeline_section_preview_2.png" %}

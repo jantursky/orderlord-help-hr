@@ -44,7 +44,7 @@ function initNav() {
 
 function initSearch() {
   var request = new XMLHttpRequest();
-  request.open('GET', 'http://localhost:4000/orderlord-help-caller-id/assets/js/search-data.json', true);
+  request.open('GET', 'http://localhost:4000/orderlord-help-hr/assets/js/search-data.json', true);
 
   request.onload = function(){
     if (request.status >= 200 && request.status < 400) {
