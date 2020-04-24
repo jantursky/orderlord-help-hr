@@ -32,7 +32,7 @@ Once the problem of any type will occur, and the user isn't able to solve the pr
 
 {% include img_tablet.html name="troubleshooting_report_your_problem_3.png" %}
 
-- Add the description of the problem. Try to be more specific and mention also _an identifier_ of the specific data (like _Not receiving any calls_). You could also add the contact email, where our support team will contact you as soon as possible. You could also add attachments for a better description of the problem. You could take screenshots in multiple ways:
+- Add the description of the problem. Try to be more specific and mention also _an identifier_ of the specific data (like _Camera is not working, image is mirrored_). You could also add the contact email, where our support team will contact you as soon as possible. You could also add attachments for a better description of the problem. You could take screenshots in multiple ways:
 	- pressing two buttons on your Android device; normally the volume down and power button. 
 	- on other devices, you might need to use the **home button + power button** combination.
 	- either way, press the two buttons simultaneously and hold for a second.
