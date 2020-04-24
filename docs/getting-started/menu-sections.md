@@ -26,7 +26,7 @@ To display the menu with all available sections, the user could do that 2. ways:
 1. {% include icon.html name="supervisor_account" %} [**Clocked-in users**]({{site.baseurl}}{% link docs/getting-started/how-to-use-the-hr-application.md %}) - the main screen for the user, displaying the current list of clocked-in users. The user has the option to switch the clock-in/out status for any user, who has PIN verification setup.
 1. {% include icon.html name="timeline" %} [**Timeline**]({{site.baseurl}}{% link docs/timeline-section/timeline-section.md %}) - the list of last actions that the user performs during working with the HR application sorted by the date and time. The user can also filter these steps or use quick filtering feature.
 1. {% include icon.html name="settings" %} [**Settings**]({{site.baseurl}}{% link docs/list-of-settings/list-of-settings.md %}) - list of settings, mostly for the functionality purposes
-1. {% include icon.html name="report_problem" %} [**Settings**]({{site.baseurl}}{% link docs/troubleshooting/report-your-problem.md %}) - for contacting the support team, which will try to help
+1. {% include icon.html name="report_problem" %} [**Report problem**]({{site.baseurl}}{% link docs/troubleshooting/report-your-problem.md %}) - for contacting the support team, which will try to help
 1. {% include icon.html name="power_settings_new" %} [**Logout**]({{site.baseurl}}{% link docs/getting-started/how-to-logout.md %}) - the current user will be logged out
 
 

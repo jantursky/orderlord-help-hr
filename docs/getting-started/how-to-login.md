@@ -22,7 +22,7 @@ permalink: /getting-started/how-to-login
 
 {% include img_tablet.html name="getting_started_how_to_login_1.png" %}
 
-- Type on the first input line **Email** assigned email for the user. The format of the login name should be an email address, like **orderlord.test@gmail.com** (just as an example). Be aware to not add spaces on the start or end of the input. Type the password for the user. Once you click on the {% include icon.html name="visibility_off" %} eye icon on the right, the password will be displayed (for control purposes). Then click on the <span class="text-orange-200">**SIGN IN**</span> button.
+- Type on the first input line **Email** assigned email for the user. The format of the login name should be an email address, like **orderlord.test@gmail.com** (just as an example). Be aware to not add spaces on the start or end of the input. Type the password for the user. Once you click on the {% include icon.html name="visibility_off" %} eye icon on the right, the password will be displayed (for control purposes). Then click on the <span class="text-black-100">**LOGIN**</span> button on the right side.
 
 {% include img_tablet.html name="getting_started_how_to_login_2.png" %}
 
