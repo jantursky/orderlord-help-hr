@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Caller ID offline mode
+title: HR offline mode
 nav_order: 3
 has_toc: false
 parent: Frequently asked questions (FAQ)
 permalink: /frequently-asked-questions-faq/hr-offline-mode
 ---
 
-# Caller ID offline mode
+# HR offline mode
 {: .no_toc }
 
 ---
@@ -19,9 +19,11 @@ When the internet is turned off, the device is not able to connect to the networ
 
 | FUNCTIONALITY									| <span class="text-green-100">ENABLED</span>  | <span class="text-red-100">DISABLED</span> |
 |:------------------------------------------------------|:------|:------|
-| receiving incoming calls							| <span class="text-green-100">{% include icon.html name="check" %}</span> |  |
-| send received call to POS/DMS								|  | <span class="text-red-100">{% include icon.html name="close" %}</span> |
-| use phone calls section								| <span class="text-green-100">{% include icon.html name="check" %}</span> |  |
+| login the user 									|  | <span class="text-red-100">{% include icon.html name="close" %}</span> |
+| preview clocked-in users							| <span class="text-green-100">{% include icon.html name="check" %}</span> |  |
+| taking the photo of the user						| <span class="text-green-100">{% include icon.html name="check" %}</span> |  |
+| changing the clock-in/out status 					|  | <span class="text-red-100">{% include icon.html name="close" %}</span> |
 | use timeline section								| <span class="text-green-100">{% include icon.html name="check" %}</span> |  |
+| change settings									| <span class="text-green-100">{% include icon.html name="check" %}</span> |  |
 
 {% include img_tablet.html name="faq_hr_offline_mode_1.png.png" %}

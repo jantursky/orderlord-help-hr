@@ -19,6 +19,10 @@ permalink: /list-of-settings/data-section/users-filtering
 ## Description
 Set the ordering of the users in the list
 
+## List of options
+1. **Last clocked time**
+1. **First and last name**
+
 ## Where to find the option
 {% include locate_option.html category_icon="label" category_name="Data" option_icon="filter_list" option_name="Users filtering" %}
 

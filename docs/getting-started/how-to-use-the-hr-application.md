@@ -17,7 +17,7 @@ permalink: /getting-started/how-to-use-the-hr-application
 ---
 
 ## How to use the HR application
-- once the user will log into the Caller ID application, he don't need to do anything. The application is working automatically and once the phone will receive inocming call, the mechanism will try to send this **phone number (no contact details, name, surname, etc.)** to the DMS/POS system. The phone must to be connected to the network, even if it's {% include icon.html name="network_wifi" %} Wi-Fi or {% include icon.html name="network_cell" %} Mobile network. If the user is disconnected from the network, the green circle on the top of the screen will be changed to <span class="text-red-200">red blinking circle</span> notifying that the connection with network was lost. The user can keep the application running in the background ([needs to have solved battery optimization issue]({{site.baseurl}}{% link docs/frequently-asked-questions-faq/what-is-the-battery-optimization.md %})). 
+- once the user will log into the HR application, he don't need to do anything. The application is working automatically and once the phone will receive inocming call, the mechanism will try to send this **phone number (no contact details, name, surname, etc.)** to the DMS/POS system. The phone must to be connected to the network, even if it's {% include icon.html name="network_wifi" %} Wi-Fi or {% include icon.html name="network_cell" %} Mobile network. If the user is disconnected from the network, the green circle on the top of the screen will be changed to <span class="text-red-200">red blinking circle</span> notifying that the connection with network was lost.
 
 {% include img_tablet.html name="getting_started_how_to_use_the_hr_screen_1.png" %}
 
@@ -49,7 +49,7 @@ The screen is responding to the received call with changing the colors and texts
 
 {% include img_tablet.html name="getting_started_how_to_use_the_hr_screen_7.png" %}
 
-## Description of the "Caller ID" screen
+## Description of the "HR" screen
 1. **Menu icon** - opening the menu with all application sections
 1. **Logo of the company**
 1. **Internet connection indicator** - <span class="text-green-200">**the green circle**</span> is indicating, that the network is stable and the application is successfully connected to the server. <span class="text-red-200">**The red circle**</span> will display, once the internet is not available.

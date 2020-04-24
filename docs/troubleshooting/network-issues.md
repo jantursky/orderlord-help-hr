@@ -16,13 +16,15 @@ permalink: /troubleshooting/network-issues
 
 ---
 
-## "No internet connection!" warning
-Once the connection is disconnected, <span class="text-red-200"> **the red blinking circle color indicator** is displayed.</span> Try to {% include icon.html name="network_wifi" %} turn ON the Wi-Fi (or turn OFF and then ON), or check if you have running {% include icon.html name="network_cell" %} Mobile network, or if you have a enough {% include icon.html name="signal_cellular_null" %} signal strength.
+## Red circle indicator
+Circle indicator in the header of every section in the application next to the section name is indicating if the connection with the network is <span class="text-green-200">established and running by **green color**</span> or once the connection <span class="text-red-200">is disconnected by **red color** and blinking.</span>
 
 ## Unable to connect to the network
 If you aren't able to connect to the network, follow these steps:
+- open the Browser application in that Android device (like Chrome, Firefox, etc.), and try to open any specific website (like _google.sk_, etc.):
+	- if you aren't able to reach that website, then you aren't able to connect to the website/server definitely. 
+	- you could double-check that, the issue is only for that Android device, that you will do the same for another Android device connected into the same network. Once the result is the same, then your local network is not able to communicate with the internet. But if you are able to open the website on this second device, then the network issue is only in the first Android device.
 - **turn OFF and ON {% include icon.html name="network_wifi" %} the Wi-Fi** - check if it helps
-- or if you are using Mobile network, **turn OFF and ON {% include icon.html name="network_cell" %} the Mobile network** - check if it helps
 - if not, check if is there {% include icon.html name="priority_high" %} **exclamation mark** right next to the connection icon, if it's {% include icon.html name="network_wifi" %} Wi-Fi or {% include icon.html name="network_cell" %} Cellular data. If yes, try to investigate, why the device isn't able to connect to the network - probably **wrong network credentials, the external device fault** (external devices like modem, router or switch is running but is not able to communicate with the server) or **something else**.
 - if that doesn't help, try to **restart the device** and check the network again
 - else contact [the support](mailto:support@orderlord.com) with the description of the problem

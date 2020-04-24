@@ -19,6 +19,10 @@ permalink: /list-of-settings/data-section/camera-facing
 ## Description
 Customize the facing of the camera, if it should be front or back camera
 
+## List of options
+1. **Front camera** - the facing of the camera is the same as that of the screen
+1. **Back camera** - the facing of the camera is opposite to that of the screen
+
 ## Where to find the option
 {% include locate_option.html category_icon="label" category_name="Data" option_icon="camera_rear" option_name="Camera facing" %}
 

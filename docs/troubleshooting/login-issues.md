@@ -20,7 +20,7 @@ permalink: /troubleshooting/login-issues
 During the first-time login, the user will be prompted to accept the application's required permission - [for more information click here]({{site.baseurl}}{% link docs/frequently-asked-questions-faq/application-permissions.md %})
 
 ## Wrong format of Email
-You need to be aware, that during typing the email address, you need to type the correct format of the address, like **"orderlord@gmail.com"**
+You need to be aware, that during typing the email address, you need to type the correct format of the address, like **"orderlord.test@gmail.com"**
 
 ## Unauthorized access/Incorrect credentials
 If you typed the email and password correctly, but the application responds with **Unauthorized access** message, then:

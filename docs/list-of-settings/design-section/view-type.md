@@ -17,7 +17,7 @@ permalink: /list-of-settings/design-section/view-type
 ---
 
 ## Description
-Adjust the design of the list. The orders and meals, that are displayed are displayed always the same for every view type. The difference could be only in the way, how this information are displayed (layout) or how they are grouped together. But the filters applied from another [setting section]({{site.baseurl}}{% link docs/list-of-settings/data-section/data-section.md %}), are used for every view type
+Adjust the design of the users screen. The users, that are displayed are displayed always the same for every view type. The difference could be only in the way, how this information are displayed (layout). 
 
 ## Where to find the option
 {% include locate_option.html category_icon="palette" category_name="Design" option_icon="line_style" option_name="View type" %}
