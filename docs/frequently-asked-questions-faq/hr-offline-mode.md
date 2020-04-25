@@ -26,4 +26,4 @@ When the internet is turned off, the device is not able to connect to the networ
 | use timeline section								| <span class="text-green-100">{% include icon.html name="check" %}</span> |  |
 | change settings									| <span class="text-green-100">{% include icon.html name="check" %}</span> |  |
 
-{% include img_tablet.html name="faq_hr_offline_mode_1.png.png" %}
+{% include img_tablet.html name="faq_hr_offline_mode_1.png" %}
