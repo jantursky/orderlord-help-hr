@@ -27,21 +27,19 @@ permalink: /getting-started/how-to-use-the-hr-application
 
 {% include img_tablet.html name="getting_started_how_to_use_the_hr_screen_2.png" %}
 
-- the phone must to be connected to the network, even if it's {% include icon.html name="network_wifi" %} Wi-Fi or {% include icon.html name="network_cell" %} Mobile network. If the user is disconnected from the network, the green circle on the top of the screen will be changed to <span class="text-red-200">red blinking circle</span> notifying that the connection with network was lost.
-
 {% include img_smartphone.html name="getting_started_how_to_use_the_hr_screen_3.png" %}
 
 - the user needs specify the store, in which he is going to clock-in or clock-out. He also needs to specify department type where he belongs: **Management** or **Delivery** (this option is displayed only if the setting in account settings is enabled)
 
 {% include img_smartphone.html name="getting_started_how_to_use_the_hr_screen_4.png" %}
 
-- {% include icon.html name="phone_missed" %} the user wasn't able to respond to the incoming phone call, but he has the option to call back the customer
-
 {% include img_smartphone.html name="getting_started_how_to_use_the_hr_screen_5.png" %}
 
-- {% include icon.html name="signal_wifi_off" %} the phone isn't connected to the network, and wasn't able to send the phone number to the server
+- once the user select the department type, he needs to **enter the 4-digit PIN**, to verify himself.
 
 {% include img_smartphone.html name="getting_started_how_to_use_the_hr_screen_6.png" %}
+
+- after success verification, the process of contacting the server will send clock-in/out of the user.
 
 {% include img_smartphone.html name="getting_started_how_to_use_the_hr_screen_7.png" %}
 
